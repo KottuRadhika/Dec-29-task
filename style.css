@@ -1,0 +1,9 @@
+.holder{
+    width:100%;
+    height:double 5px red;
+}
+.box{
+    width:100%;
+    border:ridge 5px green;
+    overflow: scroll;
+}
